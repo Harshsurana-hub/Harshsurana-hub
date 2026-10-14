@@ -2,6 +2,8 @@
 
 # Hi, I'm Harsh Surana 👋
 
+![Typing animation: Exploring AI and contributing to open source; Building for the web and cloud](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=2AF598&center=true&vCenter=true&width=740&height=60&lines=Exploring+AI+%26+contributing+to+open+source;Building+for+the+web+%26+cloud)
+
 ### Developer · Web Development · Open Source · Problem Solving
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-surana-b07a5a380/)
