@@ -1,22 +1,18 @@
-<div align="center">
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="Harsh Surana — One pixel. One commit. One adventure. A pixel-art developer beneath a purple night sky." />
+</p>
 
-# Hi, I'm Harsh Surana 👋
+<h1 align="center">Hi, I'm Harsh Surana</h1>
+<p align="center"><strong>Developer · Web Development · Open Source · Problem Solving</strong></p>
+<p align="center">Exploring AI &amp; contributing to open source<br />Building for the web &amp; cloud</p>
 
-![Typing animation: Exploring AI and contributing to open source; Building for the web and cloud](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=2AF598&center=true&vCenter=true&width=740&height=60&lines=Exploring+AI+%26+contributing+to+open+source;Building+for+the+web+%26+cloud)
+<p align="center">
+  <a href="https://www.linkedin.com/in/harsh-surana-b07a5a380/">LINKEDIN</a> &nbsp; / &nbsp;
+  <a href="mailto:harshsuran2006@gmail.com">EMAIL</a> &nbsp; / &nbsp;
+  <a href="https://github.com/Harshsurana-hub?tab=repositories">REPOSITORIES</a>
+</p>
 
-### Developer · Web Development · Open Source · Problem Solving
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-surana-b07a5a380/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshsuran2006@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshsurana-hub)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Harsh-Surana/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/HarshSurana180)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aspiro)
-
-</div>
-
-## 👨‍💻 About Me
+<img src="assets/about.svg" width="100%" alt="01 — Player Profile" />
 
 ```text
 name       = "Harsh Surana"
@@ -27,7 +23,7 @@ currently  = "Building projects and learning by contributing"
 
 I enjoy building web projects and improving my skills through hands-on development. I also practice problem solving and contribute to open-source projects.
 
-## 🚀 Featured Work
+<img src="assets/projects.svg" width="100%" alt="02 — Quest Log" />
 
 | Project | What it is | Stack | Links |
 | --- | --- | --- | --- |
@@ -35,26 +31,28 @@ I enjoy building web projects and improving my skills through hands-on developme
 | [Oppia contribution](https://github.com/oppia/oppia/pull/27550) | Open pull request migrating an Android download acceptance test from Puppeteer to Playwright. | TypeScript, Playwright | [Pull request](https://github.com/oppia/oppia/pull/27550) |
 | MargMitra — AWS AI for Bharat Hackathon | Participated with the team; shortlisted for the Prototype Development Phase. AI-powered navigation for rural users, offering natural-language route guidance in areas with limited connectivity. | AWS Lambda, AWS Bedrock, Python, JavaScript, serverless architecture | Hackathon project |
 
-## 🛠️ Tech Focus
+<img src="assets/skills.svg" width="100%" alt="03 — Inventory" />
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-172c2a?style=flat-square&logo=javascript&logoColor=95eacd)
+![TypeScript](https://img.shields.io/badge/TypeScript-252138?style=flat-square&logo=typescript&logoColor=bca4eb)
+![Python](https://img.shields.io/badge/Python-172c2a?style=flat-square&logo=python&logoColor=95eacd)
+![React](https://img.shields.io/badge/React-252138?style=flat-square&logo=react&logoColor=bca4eb)
+![Node.js](https://img.shields.io/badge/Node.js-172c2a?style=flat-square&logo=nodedotjs&logoColor=95eacd)
+![Git](https://img.shields.io/badge/Git-252138?style=flat-square&logo=git&logoColor=bca4eb)
 
-## 📊 GitHub Stats
+<img src="assets/stats.svg" width="100%" alt="04 — Player Stats" />
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshsurana-hub&show_icons=true&hide_border=true&theme=tokyonight)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshsurana-hub&layout=compact&hide_border=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshsurana-hub&show_icons=true&hide_border=true&theme=tokyonight&title_color=bca4eb&icon_color=95eacd&text_color=b4bccb&bg_color=0d1117)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshsurana-hub&layout=compact&hide_border=true&theme=tokyonight&title_color=bca4eb&icon_color=95eacd&text_color=b4bccb&bg_color=0d1117)
 
 </div>
 
-## 🤝 Let's Connect
+<img src="assets/connect.svg" width="100%" alt="05 — Multiplayer" />
 
 Open to learning, building useful projects, and collaborating on open source.
 
 [LinkedIn](https://www.linkedin.com/in/harsh-surana-b07a5a380/) · [Email](mailto:harshsuran2006@gmail.com) · [GitHub](https://github.com/Harshsurana-hub) · [LeetCode](https://leetcode.com/u/Harsh-Surana/) · [Codeforces](https://codeforces.com/profile/HarshSurana180) · [CodeChef](https://www.codechef.com/users/aspiro)
+
+<p align="center"><sub>ONE PIXEL. ONE COMMIT. ONE ADVENTURE.</sub></p>
